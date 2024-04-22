@@ -1,1 +1,1 @@
-# Prep
+Este proyecto es un ejemplo de como clonar mi repositorio y hacerlo local
